@@ -1,0 +1,9 @@
+# info
+*.pwd
+
+# executables
+*.exe
+
+# compress
+*.rar
+*.zip
